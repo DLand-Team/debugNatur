@@ -13,13 +13,19 @@ to debug natur for study
  npm run build
 ```
 
-### 3. 启动demo
+### 3. 打包natur-immer
+```shell
+ cd packages/natur-immer
+ npm run build
+```
+
+### 4. 启动demo
 ```shell
  cd packages/demo/ 
  npm run start
 ```
 
-### 4.调试
+### 5.调试
 按 f5
 
 
